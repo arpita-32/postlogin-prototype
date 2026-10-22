@@ -1,0 +1,8 @@
+{
+  "name": "Tourism \u0026 Local Commute",
+  "description": "Bharat Bill Payment System (BBPS) portal prototype with Bank of Baroda theme, bill management, Electricity, Mobile Prepaid/Postpaid plan flows, Tourism, Local Commute, and Credit Line On UPI Repayment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
